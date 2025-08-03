@@ -1,6 +1,9 @@
 # FUTURE_DS_01
 TASK 1
 
+<img width="892" height="494" alt="image" src="https://github.com/user-attachments/assets/bdcf05be-f945-4826-a9c0-4d80ec66187f" />
+
+
 🧹 Data Preparation
 
 Using Python (Pandas) in Jupyter Notebook and SQL, I cleaned and structured the dataset to ensure consistency and accuracy for meaningful analysis.
