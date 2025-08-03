@@ -1,7 +1,9 @@
 # FUTURE_DS_01
 TASK 1
 🧹 Data Preparation
- Using Python (Pandas) in Jupyter Notebook and SQL, I cleaned and structured the dataset to ensure consistency and accuracy for meaningful analysis.
+
+Using Python (Pandas) in Jupyter Notebook and SQL, I cleaned and structured the dataset to ensure consistency and accuracy for meaningful analysis.
+
 💡 Dashboard Highlights
  📊 Best-Selling Products
  📈 Sales Trends
@@ -11,6 +13,7 @@ TASK 1
  🌍 Total Sales by Region
  🗺️ Interactive Maps with Tooltips
  🥧 Pie Chart of Top Returned Items
+
 
 🔧 Skills Applied & Gained
  ✅ Python for data cleaning
